@@ -1,0 +1,167 @@
+8.8.8.8 OrgName:        Level 3 Parent, LLC
+OrgName:        Google LLC
+208.67.222.222 OrgName:        Cisco OpenDNS, LLC
+142.77.2.85 OrgName:        Verizon Business
+45.55.147.169 OrgName:        DigitalOcean, LLC
+199.85.127.20 OrgName:        NortonLifeLock Inc.
+64.6.64.6 OrgName:        Neustar Security Services
+64.6.65.6 OrgName:        Neustar Security Services
+195.46.39.40 
+129.250.35.250 OrgName:        NTT America, Inc.
+129.250.35.251 OrgName:        NTT America, Inc.
+156.154.70.1 OrgName:        Neustar Security Services
+185.228.169.9 
+199.2.252.10 OrgName:        Sprint
+204.194.232.200 OrgName:        Cisco OpenDNS, LLC
+204.194.234.200 OrgName:        Cisco OpenDNS, LLC
+165.87.13.129 OrgName:        AT&T Corp.
+165.87.201.244 OrgName:        AT&T Corp.
+8.0.7.0 OrgName:        Level 3 Parent, LLC
+192.221.134.0 OrgName:        Level 3 Parent, LLC
+192.221.135.0 OrgName:        Level 3 Parent, LLC
+209.244.0.4 OrgName:        Level 3 Parent, LLC
+4.2.2.6 OrgName:        Level 3 Parent, LLC
+156.154.71.2 OrgName:        Neustar Security Services
+158.51.134.53 OrgName:        nonexiste.net
+208.67.220.220 OrgName:        Cisco OpenDNS, LLC
+149.112.112.9 OrgName:        Packet Clearing House, Inc.
+12.127.17.72 OrgName:        AT&T Services, Inc.
+151.196.0.37 OrgName:        Verizon Business
+151.197.0.37 OrgName:        Verizon Business
+151.197.0.38 OrgName:        Verizon Business
+151.198.0.38 OrgName:        Verizon Business
+151.198.0.39 OrgName:        Verizon Business
+151.199.0.39 OrgName:        Verizon Business
+151.201.0.38 OrgName:        Verizon Business
+151.201.0.39 OrgName:        Verizon Business
+151.202.0.84 OrgName:        Verizon Business
+151.202.0.85 OrgName:        Verizon Business
+156.154.70.22 OrgName:        Neustar Security Services
+166.102.165.11 OrgName:        Windstream Communications LLC
+209.51.161.14 OrgName:        Hurricane Electric LLC
+216.169.160.2 OrgName:        Windstream Communications LLC
+216.199.46.11 OrgName:        Windstream Communications LLC
+207.68.32.39 OrgName:        Verizon Business
+209.216.160.2 OrgName:        Gorge Networks Inc.
+209.253.113.10 OrgName:        Windstream Communications LLC
+68.87.72.130 OrgName:        Comcast Cable Communications, LLC
+68.87.74.166 OrgName:        Comcast Cable Communications, LLC
+64.233.217.2 OrgName:        WideOpenWest Finance LLC
+64.238.96.12 OrgName:        Fusion Communications, LLC
+69.162.67.202 OrgName:        Limestone Networks, Inc.
+45.90.30.126 
+134.195.4.2 OrgName:        Nextgi, LLC.
+45.90.28.169 
+45.90.30.169 
+64.212.106.84 OrgName:        Level 3 Parent, LLC
+67.17.215.132 OrgName:        Level 3 Parent, LLC
+199.187.127.201 OrgName:        Database by Design, LLC
+45.90.30.193 
+64.111.16.3 OrgName:        Data102
+149.112.112.12 OrgName:        Packet Clearing House, Inc.
+169.53.182.124 OrgName:        RIPE Network Coordination Centre
+76.81.95.43 OrgName:        Charter Communications Inc
+50.204.174.98 OrgName:        Comcast Cable Communications, LLC
+50.204.174.58 OrgName:        Comcast Cable Communications, LLC
+98.38.222.125 OrgName:        Comcast Cable Communications, LLC
+173.11.131.1 OrgName:        Comcast Cable Communications, LLC
+OrgName:        Comcast Cable Communications, LLC
+98.244.8.17 OrgName:        Comcast Cable Communications, LLC
+50.220.226.155 OrgName:        Comcast Cable Communications, LLC
+71.67.219.165 OrgName:        Charter Communications Inc
+96.65.91.65 OrgName:        Comcast Cable Communications, LLC
+OrgName:        Comcast Cable Communications, LLC
+107.0.74.232 OrgName:        Comcast Cable Communications, LLC
+50.217.25.205 OrgName:        Comcast Cable Communications, LLC
+4.2.2.5 OrgName:        Level 3 Parent, LLC
+156.154.71.1 OrgName:        Neustar Security Services
+64.81.45.2 OrgName:        MegaPath Corporation
+66.93.87.2 OrgName:        MegaPath Corporation
+64.81.127.2 OrgName:        MegaPath Corporation
+66.92.64.2 OrgName:        MegaPath Corporation
+66.92.159.2 OrgName:        MegaPath Corporation
+66.92.224.2 OrgName:        MegaPath Corporation
+216.254.95.2 OrgName:        MegaPath Corporation
+216.27.175.2 OrgName:        MegaPath Corporation
+162.155.248.54 OrgName:        Charter Communications Inc
+24.172.82.94 OrgName:        Charter Communications Inc
+198.24.122.6 OrgName:        Charter Communications Inc
+156.154.70.16 OrgName:        Neustar Security Services
+209.130.139.2 OrgName:        Level 3 Parent, LLC
+50.192.195.69 OrgName:        Comcast Cable Communications, LLC
+208.67.222.2 OrgName:        Cisco OpenDNS, LLC
+208.67.220.2 OrgName:        Cisco OpenDNS, LLC
+9.9.9.11 OrgName:        Quad9
+199.85.127.10 OrgName:        NortonLifeLock Inc.
+192.3.165.37 OrgName:        ColoCrossing
+OrgName:        RackNerd LLC
+198.54.117.11 OrgName:        Namecheap, Inc.
+216.106.1.254 OrgName:        Socket Internet Services Corporation
+24.229.250.113 OrgName:        PenTeleData Inc. 
+OrgName:        PenTeleData House Account
+198.153.192.40 OrgName:        NortonLifeLock Inc.
+198.153.192.50 OrgName:        NortonLifeLock Inc.
+198.153.194.40 OrgName:        NortonLifeLock Inc.
+198.153.194.50 OrgName:        NortonLifeLock Inc.
+199.85.126.20 OrgName:        NortonLifeLock Inc.
+8.20.247.10 OrgName:        Level 3 Parent, LLC
+OrgName:        Flexential Corp.
+OrgName:        DNS.com, LLC
+12.127.16.67 OrgName:        AT&T Services, Inc.
+12.127.17.71 OrgName:        AT&T Services, Inc.
+141.154.0.68 OrgName:        Verizon Business
+151.196.0.38 OrgName:        Verizon Business
+151.203.0.85 OrgName:        Verizon Business
+166.102.165.13 OrgName:        Windstream Communications LLC
+199.44.194.2 OrgName:        CenturyLink Communications, LLC
+OrgName:        Network Tallahassee, Inc.
+209.253.113.2 OrgName:        Windstream Communications LLC
+216.194.28.33 OrgName:        MetTel
+216.229.0.25 OrgName:        Binary Net, LLC
+45.90.28.126 
+45.90.30.226 
+64.132.94.250 OrgName:        Level 3 Parent, LLC
+64.69.100.68 OrgName:        Windstream Communications LLC
+64.69.98.35 OrgName:        Windstream Communications LLC
+64.80.203.194 OrgName:        Windstream Communications LLC
+OrgName:        PaeTec Backbone Connections
+64.80.255.240 OrgName:        Windstream Communications LLC
+66.251.35.130 OrgName:        Windstream Communications LLC
+66.6.65.5 OrgName:        Windstream Communications LLC
+103.196.38.38 
+23.95.186.177 OrgName:        ColoCrossing
+64.212.106.85 OrgName:        Level 3 Parent, LLC
+144.253.76.147 OrgName:        Charter Communications
+160.238.71.10 
+198.12.71.224 OrgName:        ColoCrossing
+OrgName:        RackNerd LLC
+198.98.51.236 OrgName:        FranTech Solutions
+143.198.69.248 OrgName:        DigitalOcean, LLC
+206.81.12.77 OrgName:        DigitalOcean, LLC
+45.33.68.222 OrgName:        Akamai Technologies, Inc.
+OrgName:        Linode
+50.116.5.234 OrgName:        Akamai Technologies, Inc.
+OrgName:        Linode
+208.104.21.121 OrgName:        Comporium, Inc
+50.116.60.92 OrgName:        Akamai Technologies, Inc.
+OrgName:        Linode
+23.92.69.226 OrgName:        HIVELOCITY, Inc.
+74.208.253.90 OrgName:        IONOS Inc.
+173.163.101.137 OrgName:        Comcast Cable Communications, LLC
+104.196.194.67 OrgName:        Google LLC
+74.208.25.190 OrgName:        IONOS Inc.
+45.79.85.145 OrgName:        Akamai Technologies, Inc.
+OrgName:        Linode
+5.153.234.92 
+198.98.56.134 OrgName:        FranTech Solutions
+24.19.105.82 OrgName:        Comcast Cable Communications, LLC
+209.58.147.36 OrgName:        Leaseweb USA, Inc.
+OrgName:        Leaseweb USA, Inc.
+23.19.245.84 OrgName:        Leaseweb USA, Inc.
+OrgName:        LeaseWeb USA, Inc. New York
+23.19.245.88 OrgName:        Leaseweb USA, Inc.
+OrgName:        LeaseWeb USA, Inc. New York
+151.197.0.39 OrgName:        Verizon Business
+151.203.0.84 OrgName:        Verizon Business
+67.207.87.107 OrgName:        DigitalOcean, LLC
+73.80.254.120 OrgName:        Comcast Cable Communications, LLC

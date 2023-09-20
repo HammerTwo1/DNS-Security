@@ -21,15 +21,15 @@ while IFS= read -r ip; do
     if [ $? -eq 0 ]; then
         echo "Port 53 is open for $ip"
         echo "$ip" >> "$output_file"
-    else
-        nmap -Pn 53 "$ip" | grep "53/tcp open" > /dev/null
-
-        if [ $? -eq 0 ]; then
-            echo "Port 53 is open for $ip"
-            echo "$ip" >> "$output_file"
+#    else
+#        nmap -Pn 53 "$ip" | grep "53/tcp open" > /dev/null
+#
+#        if [ $? -eq 0 ]; then
+#            echo "Port 53 is open for $ip"
+#            echo "$ip" >> "$output_file"
         else
             echo "Port 53 is closed for $ip"
-        fi
+#        fi
     fi
 done < "$input_file"
 
