@@ -11,7 +11,7 @@ start_time=$(date +"%Y-%m-%d %H:%M:%S")
 echo "Script started at: $start_time"
 
 # Loop through subnets from 0.0.0.0/24 to 255.255.255.0/24
-for subnet in {8..255}.{8..255}.{8..255}.0/24; do
+for subnet in {0..63}.{1..63}.{21..63}.0/24; do
     ip_range="$subnet"
 
     # Use nmap -sL to list IP addresses in the subnet
@@ -33,7 +33,7 @@ for subnet in {8..255}.{8..255}.{8..255}.0/24; do
         ((iteration++))
 
         # Every thousand iterations, save results to a file
-        if [ "$(($iteration % 10))" -eq 0 ]; then
+        if [ "$(($iteration % 1000))" -eq 0 ]; then
             output_file="open_port_ips_${iteration}.txt"
             echo "IPs with Port 53 Open (UDP):" > "$output_file"
             for ip in "${open_port_ips[@]}"; do
