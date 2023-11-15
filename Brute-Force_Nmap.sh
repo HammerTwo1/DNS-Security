@@ -11,7 +11,7 @@ start_time=$(date +"%Y-%m-%d %H:%M:%S")
 echo "Script started at: $start_time"
 
 # Loop through subnets from 0.0.0.0/24 to 255.255.255.0/24
-for subnet in {0..63}.{1..63}.{21..63}.0/24; do
+for subnet in {0..63}.{0..255}.{0..255}.0/24; do
     ip_range="$subnet"
 
     # Use nmap -sL to list IP addresses in the subnet
@@ -23,7 +23,7 @@ for subnet in {0..63}.{1..63}.{21..63}.0/24; do
        
        
         # Use nmap to check if port 53 UDP is open
-        nmap -p 53 -sU "$current_ip" | grep "53/udp open" > /dev/null
+        nmap -p 53 -sU -T4 --open --min-rate=256 "$current_ip" | grep "53/udp open" > /dev/null
 
         if [ "$?" -eq 0 ]; then
             open_port_ips+=("$current_ip")
@@ -35,10 +35,8 @@ for subnet in {0..63}.{1..63}.{21..63}.0/24; do
         # Every thousand iterations, save results to a file
         if [ "$(($iteration % 1000))" -eq 0 ]; then
             output_file="open_port_ips_${iteration}.txt"
-            echo "IPs with Port 53 Open (UDP):" > "$output_file"
             for ip in "${open_port_ips[@]}"; do
                 echo "$ip" >> "$output_file"
-                echo "Open Port 53 (UDP): $ip" >> "$output_file"
             done
             echo "Results saved in $output_file"
             open_port_ips=()  # Clear the list for the next batch
@@ -48,10 +46,8 @@ done
 
 # Save any remaining results
 output_file="open_port_ips_remaining.txt"
-echo "IPs with Port 53 Open (UDP):" > "$output_file"
 for ip in "${open_port_ips[@]}"; do
     echo "$ip" >> "$output_file"
-    echo "Open Port 53 (UDP): $ip" >> "$output_file"
 done
 echo "Results saved in $output_file"
 
