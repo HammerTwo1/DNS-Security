@@ -4,14 +4,13 @@ port="53"
 
 open_port_ips=()
 
-# Initialize a counter to track iterations
 iteration=0
 
 start_time=$(date +"%Y-%m-%d %H:%M:%S")
 echo "Script started at: $start_time"
 
 # Loop through subnets from 0.0.0.0/24 to 255.255.255.0/24
-for subnet in {0..63}.{0..255}.{0..255}.0/24; do
+for subnet in {0..1}.{31..255}.{0..255}.0/24; do # The subnet needs to be modified as needed for scan range.
     ip_range="$subnet"
 
     # Use nmap -sL to list IP addresses in the subnet
@@ -55,4 +54,3 @@ end_time=$(date +"%Y-%m-%d %H:%M:%S")
 echo "Script completed at: $end_time"
 
 echo "Scan completed."
-
