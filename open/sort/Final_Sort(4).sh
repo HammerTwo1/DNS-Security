@@ -10,7 +10,7 @@ declare -A ip_addresses
 while IFS= read -r line; do
 
     for org in "${organizations[@]}"; do
-        # Check if the line contains the org name
+        # Check if the line contains the org name and if so save the IP
         if [[ "$line" == *"$org"* ]]; then
           
             if [[ "$line" =~ IP:\ ([0-9]+\.[0-9]+\.[0-9]+\.[0-9]+) ]]; then
