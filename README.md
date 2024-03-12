@@ -62,6 +62,9 @@ To execute the script, make sure the file is set as executable. "chmod -x 'File_
 sudo ./Brute-Force_Nmap(1).sh
 
 To run the script in the background run: sudo ./Brute-Force_Nmap(1).sh &>/dev/null &
+
+![Alt text](HammerTwo1/DNS-Security/blob/main/Screenshot at 2024-03-11 21-25-58.pngraw=true "Optional Title")
+
 ## Usage/Example sort(2).sh
 
 It is recommended that the collected IPs be sorted as often as possible.
