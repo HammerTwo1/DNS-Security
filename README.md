@@ -63,7 +63,7 @@ sudo ./Brute-Force_Nmap(1).sh
 
 To run the script in the background run: sudo ./Brute-Force_Nmap(1).sh &>/dev/null &
 
-![Alt text](HammerTwo1/DNS-Security/blob/main/Screenshot at 2024-03-11 21-25-58.pngraw=true "Optional Title")
+![Alt text]([HammerTwo1/DNS-Security/blob/main/Screenshot at 2024-03-11 21-25-58.png](https://github.com/HammerTwo1/DNS-Security/blob/main/Screenshot%20at%202024-03-11%2021-25-58.png)raw=true )
 
 ## Usage/Example sort(2).sh
 
